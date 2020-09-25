@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Hola, soy Sergio y esta es una prueba para la clase de Desarrollo de Interfaces
+
+- Me gusta nadar y jugar al balonces con mis amigos
+
+
 <!--
 **scalahorra/scalahorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
