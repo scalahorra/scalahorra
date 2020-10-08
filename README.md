@@ -1,23 +1,16 @@
-### Hola! :wave:
+# Hola! :wave:
 
-- Soy Sergio Calahorra, un estudiante de segundo de Desarrollo de Aplicaciones Multiplataforma :smile:
+###Soy Sergio Calahorra, estudiante de segundo de Desarrollo de Aplicaciones Multiplataforma
+
+- Actualmente estoy estudiante en el IES �taca :mortar_board:
+
+- Ilusionado por mejorar mi nivel de programaci�n :books:
+
+###Aficiones
 
 - En mi tiempo libre me gusta nadar, leer, pasar tiempo en el PC y jugar al baloncesto con mis amigos :basketball:
 
-- Me encanta mejorar mi nivel de programaci�n 
 
 
-<!--
-**scalahorra/scalahorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
