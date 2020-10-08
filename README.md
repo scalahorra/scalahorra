@@ -1,4 +1,4 @@
-### Hola! 👋
+### Hola! :wave:
 
 - Soy Sergio Calahorra, un estudiante de segundo de Desarrollo de Aplicaciones Multiplataforma :smile:
 
