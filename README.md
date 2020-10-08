@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hola! 👋
 
-- Hola, soy Sergio y esta es una prueba para la clase de Desarrollo de Interfaces
+- Soy Sergio Calahorra, un estudiante de segundo de Desarrollo de Aplicaciones Multiplataforma :smile:
 
-- Me gusta nadar y jugar al balonces con mis amigos
+- En mi tiempo libre me gusta nadar, leer, pasar tiempo en el PC y jugar al baloncesto con mis amigos :basketball:
+
+- Me encanta mejorar mi nivel de programaci�n 
 
 
 <!--
